@@ -1,0 +1,27 @@
+# Login Page Project
+
+# About
+
+A simple login page created using HTML, CSS, and JavaScript. Users can enter an email and password to access a portfolio webpage.
+
+
+## Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+
+## Features
+* Show/Hide password
+* Login success message
+* Automatic redirection to 'sans.html'
+
+## How to Run
+
+1. Open 'login.html' in your browser using Live Server.
+2. Enter an email and password.
+3. Click **Login** to open the portfolio page.
+
+## Note
+
+This is a front-end demonstration. It accepts any non-empty email and password and does not provide real authentication.
